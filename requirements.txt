@@ -5,3 +5,5 @@ langchain-groq
 python-dotenv
 langchain-google-genai
 langchain-google-vertexai
+
+langgraph
