@@ -1,0 +1,89 @@
+Introduction to Python
+
+Python is a high-level, interpreted programming language known for its simple syntax and readability. It is widely used in web development, data science, machine learning, automation, scripting, and software development.
+
+## Why Python is Popular:
+
+* Easy to learn and beginner-friendly
+* Large ecosystem of libraries and frameworks
+* Cross-platform support
+* Strong community support
+* Useful in AI, ML, data analysis, and web development
+
+## Basic Example:
+
+```python
+print("Hello, World!")
+```
+
+## Variables:
+
+Python allows dynamic typing:
+
+```python
+name = "Alice"
+age = 21
+height = 5.7
+```
+
+## Data Types:
+
+* `int` → Integer values
+* `float` → Decimal values
+* `str` → Strings/text
+* `bool` → Boolean values (`True`/`False`)
+* `list` → Ordered collection
+* `tuple` → Immutable collection
+* `dict` → Key-value pairs
+* `set` → Unique elements collection
+
+## Control Flow:
+
+```python
+if age > 18:
+    print("Adult")
+else:
+    print("Minor")
+```
+
+## Loops:
+
+```python
+for i in range(5):
+    print(i)
+```
+
+Output:
+
+```text
+0
+1
+2
+3
+4
+```
+
+## Functions:
+
+```python
+def greet(name):
+    return f"Hello, {name}"
+```
+
+Example:
+
+```python
+message = greet("Alice")
+print(message)
+```
+
+Output:
+
+```text
+Hello, Alice
+```
+
+## Conclusion:
+
+Python is an excellent first programming language because of its readability, simplicity, and versatility. It is widely used in industry and research across domains such as web development, artificial intelligence, machine learning, data science, automation, and software engineering.
+

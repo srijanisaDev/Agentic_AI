@@ -1,5 +1,6 @@
 langchain
 langchain_community
+langchain-core
 langchain-agent
 langchain-openai
 langchain-groq
@@ -8,7 +9,16 @@ langchain-google-genai
 langchain-google-vertexai
 langchain_tavily
 langchain-mcp-adapters
+langchain-text-splitters
+langchain-prompts
+
+sentence-transformers
+faiss-cpu
+chromadb
+
 mcp
+pypdf
+pymupdf
 
 langgraph
 langsmith
