@@ -11,6 +11,9 @@ langchain_tavily
 langchain-mcp-adapters
 langchain-text-splitters
 
+deepagents 
+tavily-python
+
 
 sentence-transformers
 faiss-cpu
